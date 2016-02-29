@@ -9,9 +9,11 @@
 
 ## Start the server
 
-``
+```bash
+npm install #install dependencies
 node app.js
-``
+```
+
 > 之後有空可以包裝一下，每次開機都自己啟動
 
 ## APIs
